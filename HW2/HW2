@@ -1,0 +1,41 @@
+## Example 1
+```{r}
+# Game starts when dealer shuffle all cards and give 2 card for you and 2 for himself.
+start_game()
+deal()
+stop_game()
+```
+
+
+
+
+
+## Example 2
+```{r}
+# Game starts when dealer shuffle all cards and give 2 card for you and 2 for himself.
+start_game()
+deal()
+deal()
+stop_game()
+```
+
+
+
+## Example 3
+```{r}
+start_game()
+deal()
+stop_game()
+```
+
+
+
+
+
+## Example 4
+```{r}
+start_game()
+deal()
+deal()
+stop_game()
+```
